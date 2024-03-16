@@ -1,5 +1,5 @@
 # Demo Human Action Recognition
-draw_human.py - Demo nhận dạng một người và vẽ khung cho nhận dạng.
+draw_human.py - Demo nhận dạng một người và vẽ khung cho nhận dạng.<p>
 draw_frame.py - Demo nhận dạng nhiều người trong một khung ảnh.
 
 ## **Requirements**
